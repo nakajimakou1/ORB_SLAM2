@@ -35,6 +35,8 @@
 #include "KeyFrameDatabase.h"
 #include "ORBVocabulary.h"
 #include "Viewer.h"
+// 2020.04.18 add KN
+#include <unistd.h>
 
 namespace ORB_SLAM2
 {
